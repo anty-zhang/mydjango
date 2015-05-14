@@ -1,0 +1,11 @@
+*.pyc
+env
+.coverage
+.DS_Store
+.scrapy
+.tags
+logs
+*.pid
+bak
+*.txt
+env
